@@ -1,0 +1,6 @@
+venv/
+plot.pdf
+plot.py
+data.pkl
+__pycache__
+.idea
